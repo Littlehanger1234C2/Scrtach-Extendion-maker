@@ -23,3 +23,7 @@ class  Test  {
 }
 
 Scratch . Extensions . Register ( New  Test ( ) ) ;
+
+
+## TEST
+http: //localhost:8080/test.js
